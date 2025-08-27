@@ -1,0 +1,12 @@
+langchain
+langchain-communinity
+unstructured 
+tiktoken
+pinecone
+pypdf
+langchain_groq
+numpy
+pandas
+python-dotenv
+langchain-google-genai
+langchain_pinecone
