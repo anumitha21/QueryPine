@@ -177,5 +177,3 @@ Contributions are welcome 🎉!
 Feel free to fork, open issues, and submit PRs 🚀
 
 ---
-
-👉 Would you like me to also add **shields.io badges** (for Python version, license, dependencies) and a **demo screenshot/GIF section** to make it look even more professional?
